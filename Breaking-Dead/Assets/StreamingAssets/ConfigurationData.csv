@@ -1,0 +1,15 @@
+paddleMoveUnitsPerSecond, 8
+ballImpulseForce, 3
+ballLifetime, 10
+ballDelay, 1
+minSpawnTime, 5
+maxSpawnTime, 10
+stdBlockPoint, 10
+bonusBlockPoint, 100
+pickupBlockPoint, 1
+stdBlocks, 0.8
+bonusBlocks, 0.1
+pickupBlocks, 0.1
+ballsPerGame, 2
+freezeTime, 2
+speedupTime, 2
